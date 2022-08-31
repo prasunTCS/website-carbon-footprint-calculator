@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20bcaa9b975111108380f5b3f153aff7" label="Website Carbon Calculator" max_length="40" name="x_16752_website_0_website_carbon_calculator" type="collection">
+        <element label="Amount of CO2 transferred on each page load in Grams?" max_length="40" name="amount_of_co2_transferred_on_each_page_load_in_grams" read_only="true" type="string"/>
+        <element label="Approximate amount of energy transferred on each page load in KWg" max_length="40" name="approximate_amount_of_energy_transferred_on_each_page_load_in_kwg" read_only="true" type="string"/>
+        <element label="Build On Green energy?" max_length="40" name="build_on_green_energy" read_only="true" type="boolean"/>
+        <element label="Cleaner than % of websites" max_length="40" name="cleaner_than_of_websites" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Website URL" mandatory="true" max_length="40" name="website_url" type="url"/>
+    </element>
+</database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 10:07:33</sys_created_on>
+        <sys_id>69bc2e9b975111108380f5b3f153af14</sys_id>
+        <sys_name>x_16752_website_0_website_carbon_calculator.x_16752_website_0.wcc_admin</sys_name>
+        <sys_package display_value="Website Carbon Footprint Calculator" source="x_16752_website_0">928ce69b975111108380f5b3f153af6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Website Carbon Footprint Calculator">928ce69b975111108380f5b3f153af6d</sys_scope>
+        <sys_security_acl display_value="x_16752_website_0_website_carbon_calculator">e9bcea9b975111108380f5b3f153afe0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_69bc2e9b975111108380f5b3f153af14</sys_update_name>
+        <sys_user_role display_value="x_16752_website_0.wcc_admin" name="x_16752_website_0.wcc_admin">e28ce69b975111108380f5b3f153af72</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
