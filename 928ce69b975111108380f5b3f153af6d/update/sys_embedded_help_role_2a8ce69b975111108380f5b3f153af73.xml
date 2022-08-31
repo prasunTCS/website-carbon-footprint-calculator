@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_16752_website_0.wcc_admin" name="x_16752_website_0.wcc_admin">e28ce69b975111108380f5b3f153af72</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 10:06:48</sys_created_on>
+        <sys_id>2a8ce69b975111108380f5b3f153af73</sys_id>
+        <sys_name>e28ce69b975111108380f5b3f153af72</sys_name>
+        <sys_package display_value="Website Carbon Footprint Calculator" source="x_16752_website_0">928ce69b975111108380f5b3f153af6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Website Carbon Footprint Calculator">928ce69b975111108380f5b3f153af6d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2a8ce69b975111108380f5b3f153af73</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

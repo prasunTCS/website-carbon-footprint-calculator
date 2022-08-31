@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c0dde21f975111108380f5b3f153af23" sys_domain="global" table="x_16752_website_0_website_carbon_calculator" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:12:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90dde21f975111108380f5b3f153af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_16752_website_0_website_carbon_calculator" name="x_16752_website_0_website_carbon_calculator" sys_domain="global" view="Default view">c0dde21f975111108380f5b3f153af23</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_16752_website_0_website_carbon_calculator" sys_domain="global" view="Default view">70cc6a5b975111108380f5b3f153af19</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:12:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:12:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cdde21f975111108380f5b3f153af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_16752_website_0_website_carbon_calculator" name="x_16752_website_0_website_carbon_calculator" sys_domain="global" view="Default view">c0dde21f975111108380f5b3f153af23</sys_ui_form>
+            <sys_ui_section caption="Website Carbon Details" display_value="Website Carbon Details" name="x_16752_website_0_website_carbon_calculator" sys_domain="global" view="Default view">88dde21f975111108380f5b3f153af22</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:12:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_16752_website_0_website_carbon_calculator</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0dde21f975111108380f5b3f153af23</sys_id>
+            <sys_name>x_16752_website_0_website_carbon_calculator</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Website Carbon Footprint Calculator" source="x_16752_website_0">928ce69b975111108380f5b3f153af6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Website Carbon Footprint Calculator">928ce69b975111108380f5b3f153af6d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c0dde21f975111108380f5b3f153af23</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_16752_website_0_website_carbon_calculator" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_16752_website_0_website_carbon_calculator" element="NULL" name="x_16752_website_0_website_carbon_calculator" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eaa0b613979111108380f5b3f153afd5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_id>6ea0b613979111108380f5b3f153afd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:24:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>amount_of_co2_transferred_on_each_page_load_in_grams</element>
+            <list_id display_value="x_16752_website_0_website_carbon_calculator" element="NULL" name="x_16752_website_0_website_carbon_calculator" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eaa0b613979111108380f5b3f153afd5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_id>e2a0b613979111108380f5b3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:24:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approximate_amount_of_energy_transferred_on_each_page_load_in_kwg</element>
+            <list_id display_value="x_16752_website_0_website_carbon_calculator" element="NULL" name="x_16752_website_0_website_carbon_calculator" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eaa0b613979111108380f5b3f153afd5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_id>66a0b613979111108380f5b3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:24:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>build_on_green_energy</element>
+            <list_id display_value="x_16752_website_0_website_carbon_calculator" element="NULL" name="x_16752_website_0_website_carbon_calculator" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eaa0b613979111108380f5b3f153afd5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_id>e6a0b613979111108380f5b3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:24:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cleaner_than_of_websites</element>
+            <list_id display_value="x_16752_website_0_website_carbon_calculator" element="NULL" name="x_16752_website_0_website_carbon_calculator" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eaa0b613979111108380f5b3f153afd5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_id>6aa0b613979111108380f5b3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:24:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>website_url</element>
+            <list_id display_value="x_16752_website_0_website_carbon_calculator" element="NULL" name="x_16752_website_0_website_carbon_calculator" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eaa0b613979111108380f5b3f153afd5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_id>eaa0b613979111108380f5b3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 10:24:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_16752_website_0_website_carbon_calculator</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 10:24:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaa0b613979111108380f5b3f153afd5</sys_id>
+            <sys_name>x_16752_website_0_website_carbon_calculator</sys_name>
+            <sys_package display_value="Website Carbon Footprint Calculator" source="x_16752_website_0">928ce69b975111108380f5b3f153af6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Website Carbon Footprint Calculator">928ce69b975111108380f5b3f153af6d</sys_scope>
+            <sys_update_name>sys_ui_list_x_16752_website_0_website_carbon_calculator_null</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
